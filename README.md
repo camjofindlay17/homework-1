@@ -9,3 +9,4 @@ CSS changes: Made sure any tag changes were translated to the style page... Redu
 ## Installation
 
 Use the url (https://camjofindlay17.github.io/homework-1/) to access the webpage.
+Use the url (https://github.com/camjofindlay17/homework-1) to access the repository.
